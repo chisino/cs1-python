@@ -1,0 +1,15 @@
+John Smith
+100
+CS
+Bob Johnson
+57
+HR
+Mark Hunter
+48
+IT
+Michael Tony
+444
+R&D
+Samuel George
+22
+Math

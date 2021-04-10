@@ -1,0 +1,6 @@
+John Smith
+10
+Matthew Green
+20
+Samuel Jones
+45
